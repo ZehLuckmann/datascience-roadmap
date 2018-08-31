@@ -18,5 +18,5 @@ Na computação a arvore binária pode ser definida com as seguintes caracterís
 - Em uma árvore binária completa, todos os níveis, exceto possivelmente o último, estão completamente preenchidos, e todos os nós do último nível estão o mais longe possível.
 - Toda árvore binária completa pode ser eficientemente representada usando uma matriz
 - Uma árvore degenerada é onde cada nó pai possui apenas um nó filho associado
--
+
 ![Tree Example](./imgs/1.1/tree_example.png)
